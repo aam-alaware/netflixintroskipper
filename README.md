@@ -11,7 +11,7 @@ Netflix Intro Skipper is a Chrome extension that automatically skips the intro s
 ## Installation
 
 1. Download the **devNetflixIntroSkipper** to your machine
-![image](https://github.com/user-attachments/assets/17f876cb-761d-4c78-b01e-2a3067d410ab)
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/5a4f7a48-95ed-45c3-a3ee-39d9eb68104a">
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right corner
 4. Click "Load unpacked" and select the **devNetflixIntroSkipper** folder (or however you renamed it)
