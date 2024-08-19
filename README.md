@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b46bd224-4943-4983-a237-4149d6a119a2)# Netflix Intro Skipper
+# Netflix Intro Skipper
 
 Netflix Intro Skipper is a Chrome extension that automatically skips the intro sequence on Netflix shows so you don't need to hear a 200% subwoofer breaking volume on The Office intros.
 
