@@ -22,11 +22,3 @@ Once installed, the extension will automatically skip intros on Netflix. No addi
 ## Note
 
 This is an unofficial extension and is not affiliated with or endorsed by Netflix.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
-
-## License
-
-[MIT](link-to-your-license-file)
