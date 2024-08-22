@@ -5,6 +5,7 @@ Netflix Intro Skipper is a Chrome extension that automatically skips the intro s
 ## Features
 
 - Automatically clicks the "Skip Intro" button when it appears
+- Automatically clicks the "Continue Watching" button after multiple episodes (added 2024-08-22)
 - Works on all Netflix watch pages
 - Lightweight and unintrusive
 
